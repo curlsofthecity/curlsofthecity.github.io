@@ -10,9 +10,25 @@ header {
     /* This padding setting keeps the navigation links from being right against the edge of the header space. Remember! Margins add space around the outside of an element while padding adds space inside. As an experiment, try increasing the padding to 3 or 4 and adding margin: 2rem; on a new line. Then, save your file and note how your changes altered the look of the header. */
 }
 
+h1 {
+    color: darkcyan;
+    font-weight: bolder;
+    font-family: cursive;
+            
+        }  
+
+
+
+h2 {
+    color:darkcyan;
+    font-weight:bolder;
+    font-family:cursive;
+        }
+
 nav a {
-    color: white;
-    font-weight: bold;
+        color: floralwhite;
+    background-color: darkgray;
+    font-weight: bolder;
     text-transform: uppercase; 
 }
 
@@ -21,10 +37,13 @@ main {
     /* If we remove the default margin on the body element, we'll need to add some margin space to the main element. If we delete this, the main text will run right to the edge of the browser window. */
 }
 
-footer {
+footer footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
     color: white;
     text-align: center;
     background: #24516B;
     padding: 2rem;
+    }
     /* Keep in mind that it doesn't matter what comes first when you assign multiple styles to one element. For example, here in the footer styles, the order of the color, text-align, background, and padding properties doesn't matter. It's up to you which property you want to be first, second, third, etc. */ 
-}
