@@ -52,3 +52,14 @@
     background: #24516B;
     padding: 2rem;
             }
+
+img {
+    border:1px solid;
+    border-color: blue;
+
+}
+
+div#help-list {
+    background-color: orange;
+    width: 60%
+}
