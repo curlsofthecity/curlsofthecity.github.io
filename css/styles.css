@@ -1,8 +1,9 @@
-      body {
+body {
     font-family:sans-serif;
+    margin: 0rem;     
     background-color: blanchedalmond;
-        Margin:80%;
-        }
+    }
+        
         
         main {
     margin: 2rem;
@@ -11,10 +12,13 @@
         header {
     background: #24516B;
     padding: 2rem;
-        width: auto;
+
+
         }
         
-    
+    main {
+    margin: 2rem;
+        }
         
         h1
             {
