@@ -25,7 +25,9 @@ body {
             color: darkcyan;
             font-weight: bolder;
             font-family: cursive;
-            
+            border-width: 1px;
+            border-style: solid;
+            border-color: black;
         }
         
         
