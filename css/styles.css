@@ -49,6 +49,34 @@ body {
   display: inline;
   padding-right: 2em;
 }
+
+        nav a {
+  text-decoration: none;
+  font-family: cursive, sans-serif;
+  font-size: 1.5em;
+  font-style: normal;
+  font-weight: bold;
+  text-transform: normal;
+  letter-spacing: normal;
+  line-height: 1.5em;
+  color: white;
+}
+
+#nav a:hover {
+  text-decoration: underline;
+  font-family: cursive, sans-serif;
+  font-size: 1.5em;
+  font-style: normal;
+  font-weight: bold;
+  text-transform: normal;
+  letter-spacing: normal;
+  line-height: 1.5em;
+  color: black; 
+}
+
+#nav a.active{
+  color: black;
+}
         
     footer { 
     left:0;
