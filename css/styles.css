@@ -37,7 +37,7 @@ body {
             font-family: Apple Chancery,cursive;
         }
         
-        #nav a {
+        nav a {
     color: floralwhite;
     background-color: darkgray;
     font-weight: bolder;
@@ -50,17 +50,6 @@ body {
   padding-right: 2em;
 }
 
-        nav a {
-  text-decoration: none;
-  font-family: cursive, sans-serif;
-  font-size: 1.5em;
-  font-style: normal;
-  font-weight: bold;
-  text-transform: normal;
-  letter-spacing: normal;
-  line-height: 1.5em;
-  color: white;
-}
 
 #nav a:hover {
   text-decoration: underline;
