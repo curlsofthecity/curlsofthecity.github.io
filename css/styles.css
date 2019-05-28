@@ -37,35 +37,18 @@ body {
             font-family: Apple Chancery,cursive;
         }
         
-        nav a {
-    list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-li a:hover {
-  background-color: #111;
-}
+        #nav a {
     color: floralwhite;
     background-color: darkgray;
     font-weight: bolder;
     font-family: 'Anton', sans-serif;
     text-transform: uppercase;
         }
+        
+        #nav li {
+  display: inline;
+  padding-right: 2em;
+}
         
     footer { 
     left:0;
