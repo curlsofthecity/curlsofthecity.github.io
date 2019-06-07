@@ -94,16 +94,12 @@ input#search-bar{
     height: 75px;
     top: -70px;
     right: -10px;
+}
 
 
 #page-container {
   position: relative;
   min-height: 100vh;
-}
-
-#content-wrap {
-  padding-bottom: 2.5rem;    
-    /* Footer height */
 }
    
 
