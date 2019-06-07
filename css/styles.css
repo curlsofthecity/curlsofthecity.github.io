@@ -29,6 +29,7 @@ html, body {
             border-width: 3px;
             border-style: groove;
             border-color: lightskyblue;
+            animation: .flipInX;
         }
         
         
