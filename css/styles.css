@@ -4,7 +4,7 @@ html, body {
     margin: 0;
     padding: 0;
     height: 100%;  
-    background-color: lavenderblush;
+    background-color: #ffc4ee ;
     }
         
         
@@ -26,9 +26,9 @@ html, body {
             color: darkcyan;
             font-weight: bolder;
             font-family: 'Lora', serif;
-            border-width: 1px;
-            border-style: dotted;
-            border-color: burlywood;
+            border-width: 3px;
+            border-style: groove;
+            border-color: lightskyblue;
         }
         
         
@@ -44,7 +44,7 @@ nav {
     color: lightpink;
     background-color: black;
     font-weight: bolder;
-    font-family: cursive, sans-serif;
+    font-family: 'Satisfy', cursive;
     font-size: 20px;
     text-align: right;
     text-transform: uppercase;
@@ -56,7 +56,7 @@ nav {
         
 nav a:hover {
   text-decoration: underline;
-  font-family: cursive, sans-serif;
+  font-family: 'Satisfy', cursive;
   font-style: normal;
   font-weight: bold;
   text-transform: normal;
@@ -82,8 +82,8 @@ nav a:visited{
    
 
 img {
-    border:1px solid;
-    border-color: blue;
+    border:3px solid;
+    border-color: black;
 
 }
     .responsive{
