@@ -74,6 +74,28 @@ nav a:visited{
   color: pink;
 }
 
+.search-container{
+    width: 200px;
+}
+
+input#search-bar{
+    width: 200px;;
+    height: 45px;
+    padding: 0 20px;
+    font-size: 1rem;
+    border: 1px solid #D0CFCE;
+    outline:none;  
+}
+
+.search-icon{
+    position: relative;
+    float: right;
+    width: 75px;
+    height: 75px;
+    top: -70px;
+    right: -10px;
+
+
 #page-container {
   position: relative;
   min-height: 100vh;
@@ -83,14 +105,7 @@ nav a:visited{
   padding-bottom: 2.5rem;    
     /* Footer height */
 }
-   footer { 
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-    color: white;
-    text-align: center;
-    background: #24516B;      
-}
+   
 
 img {
     border:1px solid;
@@ -124,4 +139,10 @@ main {
 div#help-list {
     background-color: antiquewhite;
     width: 60%
+}
+
+footer { 
+    color: white;
+    text-align: center;
+    background: #24516B;      
 }
