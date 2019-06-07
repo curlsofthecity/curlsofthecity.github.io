@@ -36,12 +36,23 @@ html, body {
             color:darkcyan;
             font-weight:bolder;
             font-family: Apple Chancery,cursive;
+             margin:35px;
         }
+h3{ margin:35px;}
+
+h4{
+     margin:35px;
+}
 p {
     margin:35px;
+    font-family: 'Raleway', sans-serif;
     
 }
    
+ul li{
+    font-family: 'Raleway', sans-serif;
+}
+
 
 nav {
     position: relative; 
