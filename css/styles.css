@@ -74,28 +74,6 @@ nav a:visited{
   color: pink;
 }
 
-.search-container{
-    width: 200px;
-}
-
-input#search-bar{
-    width: 200px;;
-    height: 45px;
-    padding: 0 20px;
-    font-size: 1rem;
-    border: 1px solid #D0CFCE;
-    outline:none;  
-}
-
-.search-icon{
-    position: relative;
-    float: right;
-    width: 75px;
-    height: 75px;
-    top: -70px;
-    right: -10px;
-}
-
 
 #page-container {
   position: relative;
