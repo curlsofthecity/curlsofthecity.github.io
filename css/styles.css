@@ -29,8 +29,6 @@ html, body {
             border-width: 3px;
             border-style: groove;
             border-color: lightskyblue;
-            animation-name: flipInX;
-            animation-duration: 4s;
         }
         
         
@@ -58,7 +56,7 @@ ul li{
 
 nav {
     position: relative; 
-    background-color: black;
+    color: white;
     font-weight: bolder;
     font-family: 'Satisfy', cursive;
     font-size: 30px;
@@ -68,7 +66,9 @@ nav {
     height: 70px;
     padding-top: 35px;
     padding-right: 10PX;
-    
+   border-style:double;
+       border-color: darkviolet;
+
         }
         
 nav a:hover {
@@ -79,7 +79,7 @@ nav a:hover {
   text-transform: normal;
   letter-spacing: normal;
   line-height: 1.5em;
-  color: lightpink; 
+  color: deeppink; 
 }
 
 
@@ -123,6 +123,7 @@ div#help-list {
     background-color: antiquewhite;
     width: 60%
 }
+
 
 footer { 
     color: white;
