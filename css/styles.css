@@ -68,6 +68,7 @@ nav {
     line-height: 1.5em;
     height: 70px;
     padding-top: 35px;
+    padding-right: 10PX;
     
         }
         
@@ -80,10 +81,6 @@ nav a:hover {
   letter-spacing: normal;
   line-height: 1.5em;
   color: hotpink; 
-}
-
-nav a:visited{
-    color: ghostwhite;
 }
 
 
